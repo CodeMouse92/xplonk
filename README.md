@@ -9,5 +9,7 @@ There are vanishingly few maintained newsreaders for USENET, which nerds like us
 ## Tech Stack
 
 * Python 3.8
-* TKinter or PySide2 (we haven't yet decided)
+* PySide2
+* Twisted
+* SQLite 3
 * ...more later.
