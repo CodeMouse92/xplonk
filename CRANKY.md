@@ -21,8 +21,8 @@ doomsday, don't take it personally.
 
 If you decide to try and *use* this software, you're taking your sanity
 into your own hands. As long as it runs on our machines, that is all we care
-about. It may be unstable, or not support your system. I offer neither
-warranty nor technical support.
+about. It may be unstable, or not support your system. We offer neither
+warranty nor technical support (but welcome bug reports).
 
 We may drop this later and take the project seriously if we ever believe
 this to be good enough, but we make no guarantees on if, or when, that may
