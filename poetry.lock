@@ -1,5 +1,5 @@
 [[package]]
-category = "dev"
+category = "main"
 description = "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
 name = "appdirs"
 optional = false
@@ -477,7 +477,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "7e9096ccf4332561a8ac1365e3b538df48e8b9131584944c481cb1e8f240748c"
+content-hash = "0206008515488d685b71421ab37a7a6b99566b0f7e3ab0acc5053ef60516ed26"
 python-versions = ">=3.6,<4"
 
 [metadata.files]

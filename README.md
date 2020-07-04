@@ -8,8 +8,7 @@ There are vanishingly few maintained newsreaders for USENET, which nerds like us
 
 ## Tech Stack
 
-* Python 3.8
+* Python 3.7 or up.
 * PySide2
-* Twisted
 * SQLite 3
 * ...more later.

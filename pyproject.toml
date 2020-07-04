@@ -14,8 +14,9 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.6,<4"
+python = ">=3.7,<4"
 toml = "^0.10.0"
+appdirs = "^1.4.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
